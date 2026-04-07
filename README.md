@@ -2,6 +2,10 @@
 
 A backend REST API built with FastAPI and MongoDB for managing financial records with role-based access control.
 
+**Live API:** https://finance-dashboard-iiac.onrender.com  
+**Interactive Docs (Swagger UI):** https://finance-dashboard-iiac.onrender.com/docs  
+**GitHub Repository:** https://github.com/Ramdubey1709/Finance-Dashboard
+
 ## Tech Stack
 
 - Python 3.10+
